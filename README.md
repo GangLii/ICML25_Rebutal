@@ -1,5 +1,6 @@
 # ICML25_Rebutal
 
+The page serves as a supplement to our rebuttal to the ICML 2025 submission. It contains additional experimental results for adding baseline DER (Dark Experience Replay) for comparison.
 
 **Experimental results for comparing the baseline DER (Dark Experience Replay) with our method**
 
